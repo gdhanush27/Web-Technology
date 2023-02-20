@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>DEPARTMENT OF ARTIFICIAL INTELLIGENCE</title>
+</head>
+<body>
+    <h1 >KONGU ENGINEERING COLLEGE </h1>
+    <h1 >PERUNDURAI</h1>
+    <img src='https://kongu.ac.in/departments/ai/images/header.png'alt='DEPARTMENT OF AI'height='200'>
+    <h2 >HEAD OF THE DEPARTMENT</h2>
+    <p >Dr.C.S.Kanimozhi selvi (w.e.f 04.05.2022)</p>
+    <h2 ><hr>PROGRAMMES OFFERED</hr></h2>
+    <h3 ><b>Programme</b></h3>
+    <p><abbr title="Artificial Intelligence">AI</abbr></p>
+    <p >B.Tech Artificial Intelligence and Machine Learning<a href='\exp1.1.html''> Dept of AI-Machine Learning</a></p>
+    <p >B.Tech Artificial Intelligence and Data Science<a href='\exp1.2.html'>Dept of AI-Data Science</a></p>
+
+</body>
+</html>
